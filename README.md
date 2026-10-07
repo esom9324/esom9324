@@ -9,3 +9,7 @@ Hi there 👋
 
 ##<!--
 **esom9324/esom9324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+This is the part where I add some more pieces that come from my local machine. This should be enough to prove any changes. The beginning of a project.
+
+Next up. 
